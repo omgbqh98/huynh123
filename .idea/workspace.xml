@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f782a3-bb8a-4c4b-80d9-23c9d5e03c23" name="Default Changelist" comment="" />
+    <list default="true" id="29f782a3-bb8a-4c4b-80d9-23c9d5e03c23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvcanhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/cvcanhan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fi9bVlkX7i7K1q16xv3CqpmhC8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,13 +33,22 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.danhsach.html">
+    <configuration name="cvcanhan.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/huynh98/cvcanhan.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="danhsach.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/huynh98/danhsach.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="huynh.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/huynh98/huynh.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.danhsach.html" />
+        <item itemvalue="JavaScript Debug.cvcanhan.html" />
         <item itemvalue="JavaScript Debug.huynh.html" />
       </list>
     </recent_temporary>
@@ -42,11 +61,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596690118146</updated>
-      <workItem from="1596690119225" duration="6355000" />
+      <workItem from="1596690119225" duration="7492000" />
+      <workItem from="1596762577247" duration="10866000" />
+      <workItem from="1596777480086" duration="323000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
+    <state width="1259" height="163" key="GridCell.Tab.1.bottom" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
+    <state width="1259" height="163" key="GridCell.Tab.1.center" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
+    <state width="1259" height="163" key="GridCell.Tab.1.left" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
+    <state width="1259" height="163" key="GridCell.Tab.1.right" timestamp="1596710187389">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1596710187389" />
   </component>
 </project>
